@@ -12,6 +12,6 @@
     "1.19",
     "1.19.2"
   ],
-  "description": "A mod that adds a chat formatter to KubeJS.",
+  "description": "A script that adds a chat formatter to KubeJS.",
   "modloaders": ["forge", "fabric"]
 }
