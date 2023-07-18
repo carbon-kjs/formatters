@@ -1,0 +1,17 @@
+{
+  "name": "formatters",
+  "version": "0.0.1",
+  "author": "malezjaa",
+  "minecraftVersion": [
+    "1.12",
+    "1.12.2",
+    "1.16",
+    "1.16.5",
+    "1.18",
+    "1.18.2",
+    "1.19",
+    "1.19.2"
+  ],
+  "description": "A mod that adds a chat formatter to KubeJS.",
+  "modloaders": ["forge", "fabric"]
+}
