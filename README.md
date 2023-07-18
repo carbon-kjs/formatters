@@ -11,7 +11,7 @@ carbon add formatters
 ## Usage
 
 ```js
-global.formatter.aqua("Hello World");
+global.formatters.aqua("Hello World");
 ```
 
 ## Contributing

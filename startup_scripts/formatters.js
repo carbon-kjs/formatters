@@ -26,7 +26,7 @@ const codes = {
 /**
  * Global function that holds all the functions.
  */
-global.formatter = {
+global.formatters = {
   /**
    * This turns your text to black.
    * @param {*} text to format
